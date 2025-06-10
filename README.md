@@ -1,17 +1,12 @@
 # blinkr
 
-A new Flutter project.
+An app for Your better health
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+1. Set a predefined or custom time interval
+2. give the app necessary permissions
+3. click the start button and forget that you had an app  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Blinkr
+# Download
+## go to releases section and click app-release.apk
